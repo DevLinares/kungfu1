@@ -838,19 +838,19 @@
           $('#open-popupd').magnificPopup({
             items: [
               {
-                src: 'assets/images/gallery/gallery-img-05.webp',
+                src: 'assets/images/gallery/feed1.jpg',
                 title: 'Gallery 04'
               },
               {
-                src: 'assets/images/gallery/gallery-img-06.webp',
+                src: 'assets/images/gallery/feed2.jpg',
                 title: 'Gallery 01'
               },
               {
-                src: 'assets/images/gallery/gallery-img-07.webp',
+                src: 'assets/images/gallery/feed3.jpg',
                 title: 'Gallery 02'
               },
               {
-                src: 'assets/images/gallery/gallery-img-08.webp',
+                src: 'assets/images/gallery/feed4.jpg',
                 title: 'Gallery 03'
               },
             ],
@@ -862,19 +862,19 @@
           $('#open-popupe').magnificPopup({
             items: [
               {
-                src: 'assets/images/gallery/gallery-img-06.webp',
+                src: 'assets/images/gallery/feed2.jpg',
                 title: 'Gallery 04'
               },
               {
-                src: 'assets/images/gallery/gallery-img-07.webp',
+                src: 'assets/images/gallery/feed3.jpg',
                 title: 'Gallery 01'
               },
               {
-                src: 'assets/images/gallery/gallery-img-08.webp',
+                src: 'assets/images/gallery/feed4.jpg',
                 title: 'Gallery 02'
               },
               {
-                src: 'assets/images/gallery/gallery-img-05.webp',
+                src: 'assets/images/gallery/feed1.jpg',
                 title: 'Gallery 03'
               },
             ],
@@ -886,19 +886,19 @@
           $('#open-popupf').magnificPopup({
             items: [
               {
-                src: 'assets/images/gallery/gallery-img-07.webp',
+                src: 'assets/images/gallery/feed3.jpg',
                 title: 'Gallery 04'
               },
               {
-                src: 'assets/images/gallery/gallery-img-08.webp',
+                src: 'assets/images/gallery/feed4.jpg',
                 title: 'Gallery 01'
               },
               {
-                src: 'assets/images/gallery/gallery-img-05.webp',
+                src: 'assets/images/gallery/feed1.jpg',
                 title: 'Gallery 02'
               },
               {
-                src: 'assets/images/gallery/gallery-img-06.webp',
+                src: 'assets/images/gallery/feed2.jpg',
                 title: 'Gallery 03'
               },
             ],
@@ -910,19 +910,19 @@
           $('#open-popupg').magnificPopup({
             items: [
               {
-                src: 'assets/images/gallery/gallery-img-08.webp',
+                src: 'assets/images/gallery/feed4.jpg',
                 title: 'Gallery 04'
               },
               {
-                src: 'assets/images/gallery/gallery-img-05.webp',
+                src: 'assets/images/gallery/feed1.jpg',
                 title: 'Gallery 01'
               },
               {
-                src: 'assets/images/gallery/gallery-img-06.webp',
+                src: 'assets/images/gallery/feed2.jpg',
                 title: 'Gallery 02'
               },
               {
-                src: 'assets/images/gallery/gallery-img-07.webp',
+                src: 'assets/images/gallery/feed3.jpg',
                 title: 'Gallery 03'
               },
             ],

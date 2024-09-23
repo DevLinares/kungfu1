@@ -21828,7 +21828,8 @@ p.desc {
 .discount-menu-area .discount-inner .menu-wrapper {
   display: flex;
   align-items: center;
-  background: #FF9D2E;
+  background: rgb(249,230,129);
+  background: linear-gradient(90deg, rgba(249,230,129,1) 0%, rgba(248,232,211,1) 100%);
   padding: 20px 0 20px 20px;
   border-radius: 10px;
 }
@@ -21851,7 +21852,7 @@ p.desc {
   }
 }
 .discount-menu-area .discount-inner .menu-wrapper .content .heading-title {
-  color: #FFFFFF;
+  color: #000000;
   font-size: 20px;
   font-weight: 500;
   text-transform: uppercase;
@@ -21859,19 +21860,19 @@ p.desc {
   margin-bottom: 20px;
 }
 .discount-menu-area .discount-inner .menu-wrapper .content .desc {
-  color: #FFFFFF;
+  color: #000000;
   font-size: 16px;
   line-height: 20px;
   margin-bottom: 20px;
 }
 .discount-menu-area .discount-inner .menu-wrapper .content .order-btn {
-  color: #FFFFFF;
+  color: #000;
   text-transform: uppercase;
   padding-bottom: 3px;
-  border-bottom: 2px solid #FFFFFF;
+  border-bottom: 2px solid #000;
 }
 .discount-menu-area .discount-inner .menu-wrapper .image {
-  width: 50%;
+  /*width: 50%;*/
   text-align: end;
 }
 .discount-menu-area .discount-inner .menu-wrapper.middle {
@@ -22043,8 +22044,9 @@ p.desc {
   }
 }
 .rts-menu-area4 .menu-area-inner .bottom .content-bottom .inner .banner-one-wrapper {
-  text-align: left;
-  margin-bottom: 20px;
+  text-align: center;
+  margin-bottom: 60px;
+  margin-top: 60px;
 }
 .rts-menu-area4 .menu-area-inner .bottom .content-bottom .inner .banner-one-wrapper .title {
   color: #FFFFFF;
