@@ -15133,7 +15133,7 @@ body.sal-disabled [data-sal|=flip] {
   display: flex;
   align-items: center;
   align-content: center;
-  background: var(--color-primary);
+  background: #292929;
   height: 100%;
 }
 @media (max-width: 991px) {
@@ -22742,7 +22742,7 @@ p.desc {
 }
 
 .home-one.menu-tab {
-  background: url(../images/bg/menu-section.webp);
+  background: url(../images/bg/banner.png);
   background-attachment: fixed;
 }
 .home-one.menu-tab .rts-menu-area {
@@ -28782,6 +28782,7 @@ p.desc {
 }
 .main-footer-wrapper-one .single-footer-wized-one.logo-area a.logo img {
   max-width: 150px;
+  margin-left: 100px;
 }
 .main-footer-wrapper-one .single-footer-wized-one.pages {
   width: 15%;
