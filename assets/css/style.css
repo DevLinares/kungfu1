@@ -22078,8 +22078,8 @@ p.desc {
   font-size: 14px;
   font-weight: 500;
   border-radius: 30px;
-  background: var(--color-primary);
-  color: #FFFFFF;
+  background: #ffde59;
+  color: #000;
   padding: 12px 30px 12px;
 }
 .rts-menu-area4 .menu-area-inner .bottom .content-bottom .shape-image {
