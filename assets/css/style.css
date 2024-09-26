@@ -20043,7 +20043,7 @@ p.desc {
 }
 @media (max-width: 576px) {
   .rts-banner-main-area-swiper.banner-four {
-    padding: 150px 0 120px 0;
+    padding: 150px 0 0px 0;
   }
 }
 .rts-banner-main-area-swiper.banner-four .banner-img-1 {
@@ -20121,7 +20121,7 @@ p.desc {
   .rts-banner-main-area-swiper.banner-four .banner-right-image {
     width: auto;
     height: auto;
-    padding-left: 40px;
+    /*padding-left: 40px;*/
   }
 }
 .rts-banner-main-area-swiper.banner-four .banner-right-image img {
@@ -29164,4 +29164,17 @@ p.desc {
 .home-one.our-chef .rts-footer-one {
   overflow: hidden;
 }
-/*# sourceMappingURL=../maps/style.css.map */
+ 
+
+/* Cod Add New */
+
+#myVideo {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  left: -10px;
+}
+
+
+
